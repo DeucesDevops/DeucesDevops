@@ -1,16 +1,17 @@
-## Hi there 👋
+# Bernard Boateng
 
-<!--
-**DeucesDevops/DeucesDevops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Cloud & DevOps Engineer** in St Helens, UK. Open to DevOps, Platform, and SRE roles — remote or in the North West.
 
-Here are some ideas to get you started:
+## Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+AWS · Kubernetes · kOps · Terraform · Helm · Argo CD · GitHub Actions · Docker · Prometheus / Grafana / Loki · Linux / Bash · CCNA networking
+
+## Featured projects
+
+- **[AgriBridge](https://github.com/DeucesDevops/agribridge-project)** — Grain marketplace delivered on AWS with kOps, Terraform, Helm, Argo CD, GitHub Actions, and Prometheus, Grafana, and Loki.
+- **[TaskFlow](https://github.com/DeucesDevops/taskflow)** — Local polyglot task workspace (Next.js, TypeScript, Java, Go, Python) with hardened Docker Compose and CI security scans.
+- **[Pipeline Forge](https://github.com/DeucesDevops/pipeline-forge)** — Generates enterprise GitHub Actions workflows for linting, testing, security scanning, SBOMs, Cosign signing, and EKS deployment.
+
+## Contact
+
+[LinkedIn](https://www.linkedin.com/in/bernard-ofosu-boateng-3926363b6)
